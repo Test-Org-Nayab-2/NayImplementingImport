@@ -1,1 +1,1 @@
-{"name":"taskB","environmentVariables":[],"params":["A"],"title":"taskB","id":1}
+{"name":"taskB","environmentVariables":[],"params":["A","B"],"title":"taskB","id":1}
