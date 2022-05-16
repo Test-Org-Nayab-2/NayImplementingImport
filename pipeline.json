@@ -1,1 +1,1 @@
-{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"taskLive2","dependsOn":[],"location":{"x":312,"y":64}},{"task":"taskB","dependsOn":[],"location":{"x":36,"y":59}},{"task":"task-live1","dependsOn":["taskLive2"],"location":{"x":629,"y":61}}]}
+{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"taskLive2","dependsOn":[],"location":{"x":322,"y":61}},{"task":"taskB","dependsOn":[],"location":{"x":36,"y":59}},{"task":"task-live1","dependsOn":["taskLive2"],"location":{"x":629,"y":61}}]}
